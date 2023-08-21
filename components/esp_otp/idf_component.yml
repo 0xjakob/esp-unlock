@@ -1,0 +1,6 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/esp-idf-cxx: "1.0.1-beta"
+  ## Required IDF version
+  idf:
+    version: ">=4.1.0"
